@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+😄 Pronouns: he-him
+⚡ Fun fact: i'm not 100% girl :D
 
 <!--
 **lukas0idk/lukas0idk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
